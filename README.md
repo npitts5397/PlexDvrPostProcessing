@@ -9,3 +9,5 @@ This script requires the following binaries to be present:
 * comskip ini (/usr/local/etc/comskip.ini)
 
 I keep my copy in /scripts, I don't think it really matters where this script is stored. Once it's in place, select the script in Plex DVR's Post Processing Script field in DVR settings.
+
+Script is tested in a Plex FreeNAS jail. I suspect it'll work with little to no modification in other BSD / Linux based operating systems.
